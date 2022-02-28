@@ -1,0 +1,17 @@
+id: PFDDFBC3B
+initial_creation_type: input
+source_metadata:
+  title: Jamyang Gyaltsen Series
+  language: en
+  description: 'Texts by and about Jamyang Gyaltsen (''jam dbyangs rgyal mtshan, 1870–1940):'
+  volume:
+    b7516e8a339a41d8b491e6dd1fccda9d:
+      title: 'Fully Blossomed Learning and Contemplation: A Praise of the Great Spiritual
+        Friend Jamyang Gyaltsen'
+      parent: Praise
+    060ea61464834061b08c5254684231ac:
+      title: Prayer on the Occasion of the Reading Transmission for the Omniscient
+        King of Dharma's Thirteen-Volume Collected Writings
+      parent: Prayers
+created_at: '2022-02-28T23:33:59.579857'
+last_modified_at: '2022-02-28T23:33:59.579863'
